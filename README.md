@@ -13,12 +13,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<a href="https://github.com/stkeditz/Aarohi-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/Aarohi-Chatbot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/stkeditz/Aarohi-Chatbot/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/Aarohi-Chatbot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/stkeditz/Aarohi-Chatbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/stkeditz/AAROHIxCHATBOT/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AAROHIxCHATBOT?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/stkeditz/AAROHIxCHATBOT/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AAROHIxCHATBOT?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/stkeditz/AAROHIxCHATBOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/stkeditz/Aarohi-Chatbot/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/Aarohi-Chatbot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/stkeditz/AAROHIxCHATBOT/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/AAROHIxCHATBOT?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -37,7 +37,7 @@
     ─「 ❣️ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ❣️ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/stkeditz/Aarohi-Chatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/stkeditz/AAROHIxCHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <h3 align="center">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -45,7 +45,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/stkeditz//AAROHIxMUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/stkeditz/AAROHIxCHATBOT/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
