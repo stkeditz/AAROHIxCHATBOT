@@ -1,1 +1,1 @@
-Vick: python3 main.py
+Aarohi: python3 main.py
