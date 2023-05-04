@@ -59,11 +59,9 @@
 - Clone the repository by :
 `git clone https://github.com/stkeditz/AAROHIxMUSIC && cd AAROHIxMUSIC`
 - ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese AAROHIxMUSIC)` jo name rakhte h
-- ʏᴏᴜ'ᴠᴇ ᴛᴏ ʙᴀsʜ ᴛʜᴇ sᴇᴛᴜᴘ ғɪʟᴇ ʙʏ : `bash setup` (ɪᴛ'ʟʟ ᴀsᴋ ʏᴏᴜ ᴛᴏ ғɪʟʟ ᴛʜᴇ ᴇɴᴠ ᴛʜᴇʀᴇ)
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
-- Finally run the bot by :
-`bash start`
+- Finally run the bot by : 
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 - ɪғ ʏᴏᴜ'ʀᴇ ʜᴀᴠɪɴɢ ᴀɴʏ ɪssᴜᴇs ɪɴ ᴀɴʏ ᴏғ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs, ᴘʟᴇᴀsᴇ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ᴜs
 
