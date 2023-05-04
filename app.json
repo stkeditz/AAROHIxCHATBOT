@@ -1,0 +1,14 @@
+{
+    "name": "ᴀᴀʀᴏʜɪ ᴄʜᴀᴛʙᴏᴛ",    
+    "env": {
+        "BOT_TOKEN": {
+            "description": "ʙᴏᴛ ᴛᴏᴋᴇɴ ᴏɴʟʏ",
+            "required": true
+        }              
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
