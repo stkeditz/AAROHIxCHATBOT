@@ -1,1 +1,1 @@
-Aarohi: Aarohi main.py
+Aarohi: python3 main.py
