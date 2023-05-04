@@ -6,6 +6,10 @@
         "BOT_TOKEN": {
             "description": "ʙᴏᴛ ᴛᴏᴋᴇɴ ᴏɴʟʏ",
             "required": true
+        },
+        "DATABASE_NAME": {
+            "description": "ғɪʟʟ ʏᴏᴜʀ ᴇʟᴇᴘʜᴀɴᴛ sϙʟ ᴅᴀᴛᴀʙᴀsᴇ",
+            "required": true
         }              
     },
     "addons": [
