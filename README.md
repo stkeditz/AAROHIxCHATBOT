@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://github.com/stkeditz/Aarohi-Chatbot/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/Aarohi-Chatbot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
-<a href="stkeditz/Aarohi-Chatbot/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/Aarohi-Chatbot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/stkeditz/Aarohi-Chatbot/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/Aarohi-Chatbot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
 <a href="https://github.com/stkeditz/Aarohi-Chatbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
@@ -57,8 +57,8 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/stkeditz/AAROHIxMUSIC && cd AAROHIxMUSIC`
-- ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese AAROHIxMUSIC)` jo name rakhte h
+`git clone https://github.com/stkeditz/Aarohi-Chatbot && cd Aarohi-Chatbot`
+- ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese Aarohi-Chatbot)` jo name rakhte h
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
 - Finally run the bot by : 
