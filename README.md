@@ -54,14 +54,17 @@
 `sudo apt-get install python3-pip -y`
 - Install pip by :
 `sudo pip3 install -U pip`
+- Install git by : `apt install git`
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
 `git clone https://github.com/stkeditz/Aarohi-Chatbot && cd Aarohi-Chatbot`
 - ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese Aarohi-Chatbot)` jo name rakhte h
+- Install Requirements by : `pip3 install -U -r requirements.txt`
+- Filling The Vrs : `nano main.py` Fill Your Vars In `main.py` File 
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
-- Finally run the bot by : `python3 main.py`
+- Finally run the bot by : `python main.py`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 - ɪғ ʏᴏᴜ'ʀᴇ ʜᴀᴠɪɴɢ ᴀɴʏ ɪssᴜᴇs ɪɴ ᴀɴʏ ᴏғ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs, ᴘʟᴇᴀsᴇ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ᴜs
 
